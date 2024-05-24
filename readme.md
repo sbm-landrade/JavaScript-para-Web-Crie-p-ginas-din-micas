@@ -1,3 +1,7 @@
+### **Descrição:** 
+
+Repositório criado para aplicação prática dos conceitos do curso "HTML5 e CSS3 parte 2: posicionamento, listas e navegação" da linha de estudos "02-Frontend" do plano de estudos "Desenvolvedor Padawan".
+
 # Projeto JavaScript para Web: Crie páginas dinâmicas
 
 O Alura MIDI é um instrumento musical de interface digitial (MIDI), que reproduz sons de instrumentos musicais, por enquanto de uma bateria, ao usuário clicar ou pressionar com teclado em seus botões.
